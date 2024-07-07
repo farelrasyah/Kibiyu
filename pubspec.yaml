@@ -1,0 +1,149 @@
+name: kibiyu
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  page_flip: ^0.2.3
+  just_audio: ^0.9.38
+  flutter_screenutil: ^5.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Logo.png
+    - assets/home page versi 1.png
+    - assets/hal_1.png
+    - assets/hal_2.png
+    - assets/hal_3.png
+    - assets/hal_4.png
+    - assets/hal_5.png
+    - assets/hal_6.png
+    - assets/hal_7.png
+    - assets/hal_8.png
+    - assets/hal_9.png
+    - assets/hal_10.png
+    - assets/hal_11.png
+    - assets/hal_12.png
+    - assets/hal_13.png
+    - assets/hal_14.png
+    - assets/hal_15.png
+    - assets/hal_16.png
+    - assets/hal_17.png
+    - assets/hal_18.png
+    - assets/hal_19.png
+    - assets/hal_20.png
+    - assets/hal_21.png
+    - assets/hal_22.png
+    - assets/hal_23.png
+    - assets/hal_24.png
+    - assets/hal_25.png
+    - assets/hal_26.png
+    - assets/hal_27.png
+    - assets/hal_28.png
+    - assets/hal_29.png
+    - assets/button_sound.png
+    - assets/about_button.png
+    - assets/button_play.png
+    - assets/button_quit.png
+    - assets/home_button.png
+    - assets/Sound_Homepage.mp3
+    - assets/Sound_Page.mp3
+    - assets/button_next.png
+    - assets/button_back.png
+    - assets/no_sound.png
+    - assets/pop_up.png
+    - assets/iya.png
+    - assets/tidak.png
+    - assets/silang.png
+    - assets/pop_up_about.png
+    - assets/judul.png
+    - assets/chara1.png
+    - assets/cahaya.png
+    - assets/kaktus.png
+    - assets/sumur.png
+    - assets/hikmah.png
+    - assets/karakter_1.png
+    - assets/karakter2_1.png
+    - assets/karakter2.png
+    - assets/karakter3.png
+    - assets/karakter4.png
+    - assets/karakter5.png
+    - assets/karakter6.png
+    - assets/karakter7.png
+    - assets/karakter8.png
+    - assets/karakter8_1.png
+    - assets/karakter8_2.png
+    - assets/karakter9.png
+    - assets/karakter10.png
+    - assets/karakter11.png
+    - assets/karakter11_1.png
+    - assets/karakter12.png
+    - assets/karakter12_1.png
+    - assets/karakter13.png
+    - assets/karakter14.png
+    - assets/karakter15.png
+    - assets/karakter17.png
+    - assets/karakter18.png
+    - assets/karakter18_1.png
+    - assets/karakter20.png
+    - assets/karakter21.png
+    - assets/karakter21_1.png
+    - assets/karakter22.png
+    - assets/karakter24.png
+    - assets/karakter27.png
+    - assets/karakter28.png
+    - assets/karakter29.png
+    - assets/hal_1.mp3
+    - assets/hal_2.mp3
+    - assets/hal_3.mp3
+    - assets/hal_4.mp3
+    - assets/hal_5.mp3
+    - assets/hal_6.mp3
+    - assets/hal_7.mp3
+    - assets/hal_8.mp3
+    - assets/hal_9.mp3
+    - assets/hal_10.mp3
+    - assets/hal_11.mp3
+    - assets/hal_12.mp3
+    - assets/hal_13.mp3
+    - assets/hal_14.mp3
+    - assets/hal_15.mp3
+    - assets/hal_16.mp3
+    - assets/hal_17.mp3
+    - assets/hal_18.mp3
+    - assets/hal_19.mp3
+    - assets/hal_20.mp3
+    - assets/hal_21.mp3
+    - assets/hal_22.mp3
+    - assets/hal_23.mp3
+    - assets/hal_24.mp3
+    - assets/hal_25.mp3
+    - assets/hal_26.mp3
+    - assets/hal_27.mp3
+    - assets/hal_28.mp3
+    - assets/hal_29.mp3
+    - assets/hal_30.png
+    - assets/ending.mp3
+    - assets/perawalan.mp3
+    - assets/sedih.mp3
+    - assets/senang.mp3
+    - assets/tegang.mp3
+
+
+
+   
+    
