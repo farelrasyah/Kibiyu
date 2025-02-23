@@ -1,16 +1,9 @@
-# kibiyu
+Kibiyu - Kisah Nabi Yusuf 📖✨
 
-A new Flutter project.
+Kibiyu adalah aplikasi edukasi interaktif yang menghadirkan kisah inspiratif Nabi Yusuf AS dalam bentuk cerita yang menarik dan mudah dipahami. Melalui aplikasi ini, pengguna dapat belajar tentang keteladanan, kesabaran, dan kebijaksanaan Nabi Yusuf dalam menghadapi berbagai ujian hidup.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌟 Fitur Utama:
+✅ Cerita Interaktif – Kisah Nabi Yusuf disajikan dengan narasi yang menarik.
+✅ Desain Menarik – Tampilan modern dan nyaman untuk semua usia.
+✅ Mudah Dipahami – Bahasa yang ringan dan edukatif.
+✅ Tanpa Iklan – Fokus pada pembelajaran tanpa gangguan.
